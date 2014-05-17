@@ -1,0 +1,1 @@
+Hallo Welt, das hier ist eine Testdatei fuer das Veschluesselungsprogramm!
